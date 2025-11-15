@@ -1,0 +1,29 @@
+===============================
+UML - Comunidad Universitaria UPCH
+===============================
+
+Persona
+ ├── Estudiante
+ │    ├── Pregrado
+ │    │     └── Visitante
+ │    └── Postgrado
+
+Carrera ───> contiene Estudiantes  (Composición)
+ 
+-----------------------------
+Descripción:
+- Persona: nombre, código
+- Estudiante: hereda de Persona; tiene carrera, promedio, becario
+- Pregrado y Postgrado: especializan Estudiante
+- Visitante: subtipo de Pregrado
+- Carrera: tiene lista de estudiantes (composición)
+- Polimorfismo: método tipo() cambia según clase
+
+Ejemplo de polimorfismo:
+e = Pregrado(...)
+print(e.tipo())   # "Pregrado"
+v = Visitante(...)
+print(v.tipo())   # "Visitante"
+
+Resumen en palabras simples:
+Herencia define jerarquía, composición une clases, polimorfismo adapta métodos.
