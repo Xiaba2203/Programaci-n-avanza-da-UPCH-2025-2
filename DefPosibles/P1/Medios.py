@@ -7,6 +7,22 @@ import matplotlib.pyplot as plt  # importa matplotlib
 # =============================================================================
 # A. LISTAS, TUPLAS, CONJUNTOS Y DICCIONARIOS (20)
 # =============================================================================
+import random
+
+def generar_adn(longitud):
+    bases = ["A", "T", "C", "G"]       # posibles bases
+    cadena = "".join(random.choice(bases) for _ in range(longitud))
+    return cadena                      # devuelve cadena generada
+def complemento_adn(cadena):
+    mapa = {
+        "A": "T",   # A empareja con T
+        "T": "A",   # T empareja con A
+        "C": "G",   # C empareja con C
+        "G": "C"    # G empareja con G
+    }
+    comp = "".join(mapa[b] for b in cadena)  # traduce carácter por carácter
+    return comp                               # devuelve cadena complementaria
+
 
 def crear_20_primos():  # define crear 20 primos
     primos = []  # lista primos
@@ -699,4 +715,5 @@ def animar_onda_seno():  # define animar onda
         plt.plot(x, y)  # grafica onda
         plt.ylim(-1.5, 1.5)  # limites y
         plt.pause(0.1)  # pausa animacion
+
     plt.show()  # muestra grafico
