@@ -1,0 +1,86 @@
+1928,Wings,silent
+1929,The Broadway Melody,musical
+1930,All Quiet on the Western Front,war
+1931,Cimarron,western
+1932,Grand Hotel,drama
+1933,Cavalcade,drama
+1934,It Happened One Night,romance
+1935,Mutiny on the Bounty,adventure
+1936,The Great Ziegfeld,musical
+1937,The Life of Emile Zola,biopic
+1938,You Can't Take It With You,comedy
+1939,Gone with the Wind,epic
+1940,Rebecca,thriller
+1941,How Green Was My Valley,drama
+1942,Mrs. Miniver,war
+1943,Casablanca,drama
+1944,Going My Way,musical
+1945,The Lost Weekend,drama
+1946,The Best Years of Our Lives,war
+1947,Gentleman's Agreement,drama
+1948,Hamlet,drama
+1949,All the King's Men,drama
+1950,All About Eve,drama
+1951,An American in Paris,musical
+1952,The Greatest Show on Earth,epic
+1953,From Here to Eternity,war
+1954,On the Waterfront,crime
+1955,Marty,romance
+1956,Around the World in 80 Days,adventure
+1957,The Bridge on the River Kwai,war
+1958,Gigi,musical
+1959,Ben-Hur,epic
+1960,The Apartment,comedy
+1961,West Side Story,musical
+1962,Lawrence of Arabia,biopic
+1963,Tom Jones,comedy
+1964,My Fair Lady,musical
+1965,The Sound of Music,musical
+1966,A Man for All Seasons,biopic
+1967,In the Heat of the Night,crime
+1968,Oliver,musical
+1969,Midnight Cowboy,drama
+1970,Patton,biopic
+1971,The French Connection,crime
+1972,The Godfather,crime
+1973,The Sting,comedy
+1974,The Godfather Part II,crime
+1975,One Flew Over the Cuckoo?s Nest,drama
+1976,Rocky,sports
+1977,Annie Hall,comedy
+1978,The Deer Hunter,war
+1979,Kramer vs. Kramer,drama
+1980,Ordinary People,drama
+1981,Chariots of Fire,drama
+1982,Gandhi,biopic
+1983,Terms of Endearment,comedy
+1984,Amadeus,biopic
+1985,Out of Africa,biopic
+1986,Platoon,war
+1987,The Last Emperor,biopic
+1988,Rain Man,drama
+1989,Driving Miss Daisy,comedy
+1990,Dances with Wolves,western
+1991,The Silence of the Lambs,thriller
+1992,Unforgiven,western
+1993,Schindler's List,biopic
+1994,Forrest Gump,comedy
+1995,Braveheart,war
+1996,The English Patient,war
+1997,Titanic,romance
+1998,Shakespeare in Love,romance
+1999,American Beauty,drama
+2000,Gladiator,epic
+2001,A Beautiful Mind,biopic
+2002,Chicago,musical
+2003,The Lord of the Rings:The Return of the King,fantasy
+2004,Million Dollar Baby,sports
+2005,Crash,drama
+2006,The Departed,crime
+2007,No Country for Old Men,crime
+2008,Slumdog Millionaire,romance
+2009,The Hurt Locker,war
+2010,The King's Speech,biopic
+2011,The Artist,silent
+2012,Argo,drama
+2013,12 Years a Slave,biopic
