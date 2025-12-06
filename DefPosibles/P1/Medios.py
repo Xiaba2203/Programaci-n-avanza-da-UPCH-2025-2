@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt  # importa matplotlib
 # =============================================================================
 # A. LISTAS, TUPLAS, CONJUNTOS Y DICCIONARIOS (20)
 # =============================================================================
-import random
 
 def generar_adn(longitud):
     bases = ["A", "T", "C", "G"]       # posibles bases
@@ -717,3 +716,4 @@ def animar_onda_seno():  # define animar onda
         plt.pause(0.1)  # pausa animacion
 
     plt.show()  # muestra grafico
+
